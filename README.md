@@ -1,10 +1,10 @@
-# ksx's Panel
+# collectEventRewards
 
 Script Universal para jogos do roblox
 
 ### Script
 ```lua
-loadstring(game:HttpGet('https://cdn.statically.io/gh/ksx1s/ksx-s/refs/heads/main/Panel'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/victorvvss/collectEventRewards/refs/heads/main/Panel'))()
 ```
 
 ## Como Usar
@@ -13,4 +13,4 @@ loadstring(game:HttpGet('https://cdn.statically.io/gh/ksx1s/ksx-s/refs/heads/mai
 2. Cole-o em um executor de scripts compatível com Roblox.
 3. Execute o script para ativá-lo.
 
-Caso tenha alguma dúvida, acesse: [Servidor de Suporte](https://discord.gg/gg6RkUKDEZ).
+Caso tenha alguma dúvida, acesse: [Servidor de Suporte](https://discord.gg/AbGcJwgj).
