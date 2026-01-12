@@ -13,4 +13,4 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/victorvvss/collectEve
 2. Cole-o em um executor de scripts compatível com Roblox.
 3. Execute o script para ativá-lo.
 
-Caso tenha alguma dúvida, acesse: [Servidor de Suporte](https://discord.gg/AbGcJwgj).
+Caso tenha alguma dúvida, acesse: [Servidor de Suporte](https://discord.gg/8UBMDV8cSU).
